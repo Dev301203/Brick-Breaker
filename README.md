@@ -16,4 +16,5 @@ Multiple Lives: Your remaining lives are displayed at the top of the screen.\
 Game Over Screen: Appears when all lives are lost.\
 Score Tracking: The current score and high score are displayed above.\
 Multi-hit Bricks: Some bricks require multiple hits to break; red bricks turn blue, then green, and finally disappear.\
-Pause and Reset: Pause the game to take a break or reset to start fresh while updating the high score.
+Pause and Reset: Pause the game to take a break or reset to start fresh while updating the high score.\
+Sound Effects: Enjoy immersive sound effects that enhance gameplay, making each brick hit and paddle movement more engaging.
